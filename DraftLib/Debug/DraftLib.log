@@ -1,0 +1,25 @@
+﻿Build started 10/5/2016 4:24:43 PM.
+     1>Project "E:\GDK\Draft Lib\DraftLib\DraftLib\DraftLib.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\LMI\GDK\Platform\kApi /ID:\LMI\GDK\Platform\kFireSync /ID:\LMI\GDK\Platform\kServer /ID:\LMI\GDK\Platform\kVision /ID:\LMI\GDK\ /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Surface\Surface_Geometry.c
+         Surface_Geometry.c
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\GDK\Draft Lib\DraftLib\Debug\DraftLib.dll" /INCREMENTAL /NOLOGO /LIBPATH:D:\LMI\GDK\lib\win32 kApi.lib kFireSync.lib kHardwareVirtual.lib kServer.lib kVision.lib Gdk.lib GoVision.lib GoSensor.lib GoSensorAppLib.lib ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\GDK\Draft Lib\DraftLib\Debug\DraftLib.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\GDK\Draft Lib\DraftLib\Debug\DraftLib.lib" /MACHINE:X86 /DLL Debug\GDKUtility.obj
+         Debug\Profile.obj
+         Debug\Surface.obj
+         Debug\Surface_Edge.obj
+         Debug\Surface_Fitting.obj
+         Debug\Surface_Geometry.obj
+         Debug\Surface_Image.obj
+         Debug\Surface_Z.obj
+         Debug\Utility_Debug.obj
+         Debug\Utility_Graphics.obj
+         Debug\Utility_Surface.obj
+         Debug\Utility_Surface_Visualization.obj
+         Debug\Utility_Transform.obj
+         DraftLib.vcxproj -> E:\GDK\Draft Lib\DraftLib\Debug\DraftLib.dll
+     1>Done Building Project "E:\GDK\Draft Lib\DraftLib\DraftLib\DraftLib.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.55

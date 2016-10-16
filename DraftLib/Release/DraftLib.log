@@ -1,0 +1,33 @@
+﻿Build started 10/16/2016 9:14:24 PM.
+     1>Project "E:\GDK\Draft Lib\DraftLib\DraftLib\DraftLib.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt GDKUtility.c Surface.c Surface\Surface_Edge.c Surface\Surface_Fitting.c Surface\Surface_Geometry.c Surface\Surface_Image.c Surface\Surface_Z.c Utility\Utility_Debug.c Utility\Utility_Graphics.c Utility\Utility_Surface.c Utility\Utility_Surface_Visualization.c Utility\Utility_Transform.c
+         GDKUtility.c
+     1>e:\gdk\draft lib\draftlib\draftlib\utility\..\Def.h(4): fatal error C1083: Cannot open include file: 'kApi/kApi.h': No such file or directory
+         Surface.c
+     1>e:\gdk\draft lib\draftlib\draftlib\Def.h(4): fatal error C1083: Cannot open include file: 'kApi/kApi.h': No such file or directory
+         Surface_Edge.c
+     1>e:\gdk\draft lib\draftlib\draftlib\Def.h(4): fatal error C1083: Cannot open include file: 'kApi/kApi.h': No such file or directory
+         Surface_Fitting.c
+     1>e:\gdk\draft lib\draftlib\draftlib\Def.h(4): fatal error C1083: Cannot open include file: 'kApi/kApi.h': No such file or directory
+         Surface_Geometry.c
+     1>e:\gdk\draft lib\draftlib\draftlib\Def.h(4): fatal error C1083: Cannot open include file: 'kApi/kApi.h': No such file or directory
+         Surface_Image.c
+     1>e:\gdk\draft lib\draftlib\draftlib\Def.h(4): fatal error C1083: Cannot open include file: 'kApi/kApi.h': No such file or directory
+         Surface_Z.c
+     1>e:\gdk\draft lib\draftlib\draftlib\Def.h(4): fatal error C1083: Cannot open include file: 'kApi/kApi.h': No such file or directory
+         Utility_Debug.c
+     1>e:\gdk\draft lib\draftlib\draftlib\utility\..\Def.h(4): fatal error C1083: Cannot open include file: 'kApi/kApi.h': No such file or directory
+         Utility_Graphics.c
+     1>e:\gdk\draft lib\draftlib\draftlib\Def.h(4): fatal error C1083: Cannot open include file: 'kApi/kApi.h': No such file or directory
+         Utility_Surface.c
+     1>e:\gdk\draft lib\draftlib\draftlib\Def.h(4): fatal error C1083: Cannot open include file: 'kApi/kApi.h': No such file or directory
+         Utility_Surface_Visualization.c
+     1>e:\gdk\draft lib\draftlib\draftlib\utility\..\Def.h(4): fatal error C1083: Cannot open include file: 'kApi/kApi.h': No such file or directory
+         Utility_Transform.c
+     1>e:\gdk\draft lib\draftlib\draftlib\utility\..\Def.h(4): fatal error C1083: Cannot open include file: 'kApi/kApi.h': No such file or directory
+     1>Done Building Project "E:\GDK\Draft Lib\DraftLib\DraftLib\DraftLib.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.42
